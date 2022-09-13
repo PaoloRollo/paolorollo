@@ -8,7 +8,6 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PaoloRollo)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paolo-rollo-a1a786173/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:paolo.rollo1997@gmail.com)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:paolo.rollo@cidaro.com)
 
 &nbsp;
 
@@ -18,8 +17,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/paolorollo/paolorollo/main/myself.jpg" />
 
-- 🚀 I'm currently working for @LaserRomae and @CIDARO;
-- 🤯 I'm studying Rust and Flutter; 
+- 🚀 I'm currently freelancing, developing gigs with @Playerself;
+- 🤯 I'm studying Blockchain integrations in the browser and mobile; 
 - 🎓 I have a Bsc in Computer Engineering;
 - 🧪 I have a strong passion for Chemistry;
 - 💬 Ask me about anything, I am happy to help;
